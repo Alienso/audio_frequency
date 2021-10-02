@@ -1,0 +1,1 @@
+g++ main.c -L"C:\Users\Arsenijevic\Desktop\audio_tmp" -lpthread -lportaudio
